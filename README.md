@@ -7,3 +7,4 @@ This repository is machine learning techniques codes using numpy.
 -  #5. Logistic Regression for linear classification
 -  #6. Logistic Regression for non-linear classification
 -  #7. Logistic regression with Regularization
+-  #8. Forward Propagation in the Neural Networks
