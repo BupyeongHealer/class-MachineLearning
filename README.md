@@ -1,6 +1,7 @@
 # class-MachineLearning
 
-- I was implementing machine learning techniques code just using python & numpy.
+- implementing machine learning techniques code just using python & numpy.
+- Contents : Linear Regression, Logistic Regression, Descent Gradient, Forward Propagation, Backward Propagation, Chain-rule, Regularization, Text-Classification
 
 
 ## Overview
