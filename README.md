@@ -20,8 +20,6 @@
 
 
 ## 1. Development Environment
-<br>
-
 - IDE : Google Colab & Jupyter Notebook
 - OS : Windows10
 - Language : Python
