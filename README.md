@@ -55,7 +55,7 @@
 ![alt 10번이미지](/image/img10.png)
 
 ## 11. Text classification using Neural Networks <a id="11"></a>
-## [ Project : "Movie Review sentiment classification - Positive or Negative" ]
+### Project : "Movie Review sentiment classification - Positive or Negative"
 ![alt 11번이미지](/image/img11.png)
 ![alt 12번이미지](/image/img12.png)
 
